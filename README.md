@@ -2,6 +2,24 @@
   # **👋 Nyasha Mahara | Cloud & IT Support Engineer**  
   **📍 Exmouth, UK | 📞 +44 (0)7909 524842 | ✉️ millernyasha@gmail.com**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nyasha-mahara/) 
+<details>
+<summary><b>🔍 About Me</b> (Click to expand)</summary>
+
+### **☁️ Passionate IT Professional Transitioning to Cloud Engineering**  
+With over 5 years of hands-on experience in IT support and system administration, I'm now channeling my technical expertise toward cloud technologies. Currently pursuing Microsoft AZ-900 (Azure Fundamentals) and AZ-104 (Azure Administrator) certifications, I'm building proficiency in Azure resource provisioning, virtual machine management, and cloud networking.
+
+What drives me is the relentless pursuit of mastering new technologies - whether it's implementing RBAC in Azure AD, optimizing cloud costs, or troubleshooting complex network infrastructures. My recent projects include deploying a 7-room office network (saving £1,500 by repurposing hardware) and building Azure environments from scratch.
+
+### **I thrive in environments where I can**:
+
+✔ Solve technical challenges with scalable solutions  
+✔ Bridge the gap between traditional IT and cloud infrastructure  
+✔ Continuously learn through certifications and hands-on labs  
+✔ Optimize systems that directly impact business productivity  
+
+When not studying Azure architectures, you'll find me experimenting with new cloud tools or mentoring others in IT fundamentals. My goal is to become a cloud solutions architect who transforms business operations through secure, efficient cloud implementations.
+</details>
+
   
   ### **☁️ Aspiring IT Support Engineer Transitioning to Cloud Engineering**  
   🔹 **5+ Years in IT Support** | 🔹 **Pursuing AZ-900 & AZ-104** | 🔹 **Hands-on Azure Experience**  
