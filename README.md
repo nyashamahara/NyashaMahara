@@ -1,8 +1,7 @@
-
-  
+ 
   # **👋 Nyasha Mahara | Cloud & IT Support Engineer**  
   **📍 Exmouth, UK | 📞 +44 (0)7909 524842 | ✉️ millernyasha@gmail.com**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nyasha-mahara/)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nyasha-mahara/) 
   
   ### **☁️ Aspiring IT Support Engineer Transitioning to Cloud Engineering**  
   🔹 **5+ Years in IT Support** | 🔹 **Pursuing AZ-900 & AZ-104** | 🔹 **Hands-on Azure Experience**  
@@ -30,7 +29,7 @@
 - 🤝 Vendor/clinical staff coordination  
 - 💻 Remote support for zero clinical disruptio
 
-[![Malonic](https://img.shields.io/badge/🏭_Malonic_Aluminium_&_Glass-FF0000?style=flat&logo=window&logoColor=white)](https://malonicaluminium.co.zw/).  *(Jan 2019 – Nov 2023)*  
+[![Malonic](https://img.shields.io/badge/🏭_Malonic_Aluminium_&_Glass-FF0000?style=flat&logo=window&logoColor=white)](https://malonicaluminium.co.zw/)  *(Jan 2019 – Nov 2023)*  
 - 🌐 Office network deployment (7-room Cat6)  
 - 📈 40% sales productivity increase  
 - 💰 £1,500 saved via hardware repurposing  
@@ -80,4 +79,4 @@ graph TD
     style B fill:#2196F3,stroke:#0D47A1
     style I fill:#FF9800,stroke:#F57C00
 ```
-[![View Full Project](https://img.shields.io/badge/🔗_View_Full_Project_Details-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyashamahara/Office-Network-Deployment)
+ [![View Full Project](https://img.shields.io/badge/🔗_View_Full_Project_Details-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyashamahara/Office-Network-Deployment)
