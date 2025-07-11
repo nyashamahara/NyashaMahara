@@ -6,7 +6,7 @@
 <summary><b>🔍 About Me</b> (Click to expand)</summary>
 
 ### **☁️ Passionate IT Professional Transitioning to Cloud Engineering**  
-With over 5 years of hands-on experience in IT support and system administration, I'm now channeling my technical expertise toward cloud technologies. Currently pursuing Microsoft AZ-900 (Azure Fundamentals) and AZ-104 (Azure Administrator) certifications, I'm building proficiency in Azure resource provisioning, virtual machine management, and cloud networking.
+With over 5 years of hands-on experience in IT support and system administration, I’m now channeling my technical expertise toward cloud technologies. I’m certified in Microsoft AZ-900 (Azure Fundamentals) and currently pursuing the AZ-104 (Azure Administrator) certification, building strong proficiency in Azure resource provisioning, virtual machine management, and cloud networking.
 
 What drives me is the relentless pursuit of mastering new technologies - whether it's implementing RBAC in Azure AD, optimizing cloud costs, or troubleshooting complex network infrastructures. My recent projects include deploying a 7-room office network (saving £1,500 by repurposing hardware) and building Azure environments from scratch.
 
