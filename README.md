@@ -45,7 +45,7 @@ When not studying Azure architectures, you'll find me experimenting with new clo
 - 🛡️ RBAC implementation in Active Directory  
 - 📉 30% reduction in repeat issues via RCA  
 - 🤝 Vendor/clinical staff coordination  
-- 💻 Remote support for zero clinical disruptio
+- 💻 Remote support for zero clinical disruption
 
 [![Malonic](https://img.shields.io/badge/🏭_Malonic_Aluminium_&_Glass-FF0000?style=flat&logo=window&logoColor=white)](https://malonicaluminium.co.zw/)  *(Jan 2019 – Nov 2023)*  
 - 🌐 Office network deployment (7-room Cat6)  
