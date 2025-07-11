@@ -22,7 +22,7 @@ When not studying Azure architectures, you'll find me experimenting with new clo
 
   
   ### **☁️ Aspiring IT Support Engineer Transitioning to Cloud Engineering**  
-  🔹 **5+ Years in IT Support** | 🔹 **Pursuing AZ-900 & AZ-104** | 🔹 **Hands-on Azure Experience**  
+  🔹 **5+ Years in IT Support** | 🔹 **Microsoft Certified AZ-900** | 🔹 **Pursuing AZ-104** | 🔹 **Hands-on Azure Experience**  
 </div>
 
 ---
