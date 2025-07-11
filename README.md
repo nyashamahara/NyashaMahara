@@ -34,7 +34,7 @@ When not studying Azure architectures, you'll find me experimenting with new clo
 | ✔ Virtual Machines (VMs)     | ✔ Active Directory (AD)      | ✔ ITIL Framework             |
 | ✔ Azure Storage & Networking | ✔ TCP/IP Networking         | ✔ Remote Support Tools       |
 | ✔ Identity & Access Mgmt     | ✔ Hardware Troubleshooting   | ✔ Ticketing Systems          |
-| ✔ Role-Based Access Control  | ✔ Printer/Peripheral Support | **AZ-900 (In Progress)**     |
+| ✔ Role-Based Access Control  | ✔ Printer/Peripheral Support | ✔ AZ-900 Certified           |
 
 ---
 
